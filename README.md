@@ -9,3 +9,4 @@ This repository is for project 3 in my STATS 220 course, where I have designed m
 * Markdown
 * Json
 * SQL
+* Github pages
